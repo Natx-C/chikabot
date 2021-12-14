@@ -118,6 +118,7 @@ module.exports = async(chika, msg, m, ind, setting) => {
             { urlButton: { displayText: `📌Group DixieBOT`, url : `https://chat.whatsapp.com/CVP3S3MDvAkJqawG9SBOMB`} },
             { quickReplyButton: { displayText: `🧑 Owner`, id: `${prefix}owner` } },
             { quickReplyButton: { displayText: `🎛️ Rules`, id: `${prefix}rules` } }
+            { quickReplyButton: { displayText: `🎛️ menu`, id: `${prefix}allmenu` } }
         ]
 
         const textTemplateButtons = (from, text, footer, buttons) => {
