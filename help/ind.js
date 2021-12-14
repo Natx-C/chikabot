@@ -80,7 +80,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
     return `
 *Selamat ${salam} ${pushname} 😖*
 *⌚Time Server : ${time}*
-*📚 List-Menu Chika Beta :*
+*📚 List-Menu DixieBOT MD Beta :*
 
 🤖 *INFO*
 ├ ${prefix}owner
@@ -187,7 +187,7 @@ exports.tos = (ownerNumber, prefix) => {
 
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 08127668234 (OVO/Dana/GoPay)
+🏧 081331815772 (TELKOMSEL)
 
 Berapapun donasi kalian akan sangat berarti 👍
 
